@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marckase
-- 👀 I’m interested in AWS Solution Architecture, Large Language Models, Machine Learning and Mob Programming
+- 👀 I’m interested in Python, FastAPI, Svelte, and Large Language Models.
 - 🌱 I’m currently learning Large Language Models
-- 💞️ I’m looking to collaborate on help executives create a "safe space" for agile development practices and, better yet, adopt agile practices into their own domains.  
+- 💞️ I help startups deliver on their digital promises by serving as a fractional (part-time) CTO
 - 📫 How to reach me marc@achieve-agility.com
 
 <!---
